@@ -53,6 +53,7 @@ h2 {
     border-radius: 10px;
     cursor: pointer;
     background-color: #DFF4F7;
+    font-size: 1em;
 }
 #ibtn:hover {
     background-color: aliceblue;
